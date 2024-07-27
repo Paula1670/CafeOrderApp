@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><cafe>
+    <order>
+        <bebida>
+            <tipo>F</tipo>
+            <nombre>cocacola</nombre>
+        </bebida>
+        <bebida>
+            <tipo>C</tipo>
+            <nombre>te</nombre>
+        </bebida>
+    </order>
+</cafe>
